@@ -1,6 +1,6 @@
 # Image Captioning API Documentation
 
-![API Image](https://i.ibb.co/6tKdryX/Screenshot-2023-06-19-102026.png)
+![API Image](https://i.ibb.co/zFDqxw3/image-8.png)
 
 The Image Captioning API allows you to generate captions for images using the StableHorde API. It utilizes Express.js, Multer, and Node-fetch libraries to handle the server-side logic and interaction with the StableHorde API.
 
